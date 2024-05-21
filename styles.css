@@ -823,3 +823,22 @@ td {
 	width: 15px;
 
 }
+
+/* Youssuf Abramo Code */
+.brown-cell .cell-name {background-color: saddlebrown; color: white}
+.green-cell .cell-name {background-color: forestgreen; color: white}
+.cyan-cell .cell-name {background-color: skyblue}
+.pink-cell .cell-name {background-color: deeppink}
+.orange-cell .cell-name {background-color: orange}
+.red-cell .cell-name {background-color: red}
+.yellow-cell .cell-name {background-color: yellow}
+.blue-cell .cell-name {background-color: blue}
+.gray-cell .cell-name {background-color: lightgray; color: black}
+.cell-name {padding:12px 0px}
+
+body {
+	background-image: url('https://hometownremodeling.com/wp-content/uploads/2019/06/wood_texture_radial_bottom.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#board, #setup {background-color: white;}
